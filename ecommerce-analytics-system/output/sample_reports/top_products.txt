@@ -1,0 +1,24 @@
+
+=== Top products by quantity sold and revenue ===
+
++--------------+-----------------------------------------+-------------------+--------------------+-----------------+
+|   product_id | product_name                            | category          |   total_units_sold |   total_revenue |
+|--------------+-----------------------------------------+-------------------+--------------------+-----------------|
+|           77 | Automated zero tolerance monitoring     | Automotive        |                194 |         49549.1 |
+|          119 | Enhanced logistical capability          | Toys              |                187 |         45920.9 |
+|           40 | Exclusive uniform paradigm              | Beauty            |                149 |         45749.2 |
+|           48 | Grass-roots client-driven monitoring    | Electronics       |                149 |         45499   |
+|          110 | Compatible neutral conglomeration       | Beauty            |                167 |         45334.6 |
+|           87 | Expanded incremental neural-net         | Clothing          |                160 |         43404.8 |
+|           41 | Synchronized solution-oriented encoding | Clothing          |                168 |         43134.3 |
+|           47 | Pre-emptive neutral benchmark           | Automotive        |                164 |         41503.6 |
+|           36 | Up-sized grid-enabled data-warehouse    | Sports & Outdoors |                152 |         40498.6 |
+|           79 | Balanced tangible moderator             | Toys              |                148 |         40449.6 |
+|           58 | Balanced static database                | Clothing          |                129 |         40146.2 |
+|           63 | Polarized real-time ability             | Sports & Outdoors |                169 |         39696.3 |
+|          134 | Horizontal maximized product            | Clothing          |                147 |         39047.8 |
+|          150 | Virtual client-driven hardware          | Sports & Outdoors |                137 |         38894.3 |
+|            6 | Robust dedicated time-frame             | Office Supplies   |                156 |         38506.2 |
++--------------+-----------------------------------------+-------------------+--------------------+-----------------+
+
+15 row(s) returned.

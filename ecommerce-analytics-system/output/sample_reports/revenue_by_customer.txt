@@ -1,0 +1,24 @@
+
+=== Total revenue per customer ===
+
++---------------+------------------+-----------+-----------------+--------------+
+|   customer_id | customer_name    | segment   |   total_revenue |   num_orders |
+|---------------+------------------+-----------+-----------------+--------------|
+|           361 | Julie Phillips   | vip       |         32217.7 |            9 |
+|           200 | Bryan Parsons    | regular   |         30099   |           11 |
+|           429 | Sara Hart        | wholesale |         29371.5 |           12 |
+|           144 | Jeffrey Gilbert  | vip       |         27263.6 |           10 |
+|           163 | Steve Miller     | regular   |         26238.3 |            9 |
+|           306 | Adam Parker      | regular   |         25236.4 |            6 |
+|           129 | Robin Raymond    | regular   |         23569.7 |            8 |
+|            72 | John Wells       | vip       |         23476.8 |            7 |
+|           331 | Janice Evans     | wholesale |         23152.2 |            8 |
+|           325 | Melinda Wong     | wholesale |         23091.2 |            8 |
+|           372 | Eric Ayala       | wholesale |         22655.5 |            5 |
+|            13 | Trevor Campos    | vip       |         22421.8 |            5 |
+|           351 | Stephen Braun    | vip       |         22398.8 |            9 |
+|            79 | Joseph Christian | regular   |         22299.7 |            9 |
+|           196 | Alexandra Ward   | vip       |         22175.2 |            9 |
++---------------+------------------+-----------+-----------------+--------------+
+
+15 row(s) returned.

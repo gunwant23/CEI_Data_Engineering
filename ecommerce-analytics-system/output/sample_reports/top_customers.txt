@@ -1,0 +1,24 @@
+
+=== Customers ranked by lifetime value ===
+
++---------------+------------------+-----------+------------------+------------+
+|   customer_id | customer_name    | segment   |   lifetime_value |   ltv_rank |
+|---------------+------------------+-----------+------------------+------------|
+|           361 | Julie Phillips   | vip       |          32217.7 |          1 |
+|           200 | Bryan Parsons    | regular   |          30099   |          2 |
+|           429 | Sara Hart        | wholesale |          29371.5 |          3 |
+|           144 | Jeffrey Gilbert  | vip       |          27263.6 |          4 |
+|           163 | Steve Miller     | regular   |          26238.3 |          5 |
+|           306 | Adam Parker      | regular   |          25236.4 |          6 |
+|           129 | Robin Raymond    | regular   |          23569.7 |          7 |
+|            72 | John Wells       | vip       |          23476.8 |          8 |
+|           331 | Janice Evans     | wholesale |          23152.2 |          9 |
+|           325 | Melinda Wong     | wholesale |          23091.2 |         10 |
+|           372 | Eric Ayala       | wholesale |          22655.5 |         11 |
+|            13 | Trevor Campos    | vip       |          22421.8 |         12 |
+|           351 | Stephen Braun    | vip       |          22398.8 |         13 |
+|            79 | Joseph Christian | regular   |          22299.7 |         14 |
+|           196 | Alexandra Ward   | vip       |          22175.2 |         15 |
++---------------+------------------+-----------+------------------+------------+
+
+15 row(s) returned.

@@ -1,0 +1,516 @@
+customer_id,first_name,last_name,email,signup_date,segment,country
+1,Donald,Garcia,,2025-10-07,vip,Mayotte
+2,Jeffery,Wagner,garzaanthony@example.org,2023-08-17,regular,Congo
+3,Lisa,Smith,lrobinson@example.com,2025-12-18,regular,Qatar
+4,Susan,Rogers,,2023-10-28,regular,Bhutan
+5,Jessica,Herrera,melanie94@example.org,2026-06-19,regular,Honduras
+6,Nicole,Ward,arnoldmaria@example.net,2024-02-14,wholesale,Bangladesh
+7,Melissa,Delacruz,stanleykendra@example.org,2024-09-07,wholesale,Korea
+8,Joseph,Zuniga,francisco53@example.net,2025-06-28,regular,New Caledonia
+9,Noah,Mayo,amandasanchez@example.com,2025-06-19,regular,Moldova
+10,Jeremy,Johnson,gabriellecameron@example.org,2024-06-28,regular,Ethiopia
+11,Leonard,Rios,clarksherri@example.net,2024-09-24,vip,United States Virgin Islands
+12,Julie,Ryan,ithomas@example.org,2025-10-14,wholesale,Japan
+13,Trevor,Campos,icox@example.net,2026-02-16,vip,Cape Verde
+14,Paul,Carlson,  LAURAHENDERSON@EXAMPLE.ORG ,2024-12-12,wholesale,El Salvador
+15,Karen,Mack,frazierdanny@example.net,2024-07-25,wholesale,French Polynesia
+16,Nancy,Baker,amoore@example.net,2025-01-17,wholesale,Christmas Island
+17,William,Gonzalez,harrellkenneth@example.net,2024-08-31,regular,Central African Republic
+18,Sarah,Koch,georgetracy@example.org,2026-01-15,vip,Gambia
+19,Christopher,Tucker,brianhumphrey@example.org,2023-10-02,vip,Senegal
+20,Frederick,Rose,davidalvarez@example.net,2025-05-13,wholesale,Croatia
+21,Debra,Kim,jenniferross@example.net,2025-02-05,wholesale,British Indian Ocean Territory (Chagos Archipelago)
+22,Angela,Chapman,  JEFFREYMORGAN@EXAMPLE.NET ,2023-07-26,wholesale,Russian Federation
+23,Chad,Young,perezrebecca@example.com,2025-07-21,vip,Croatia
+24,Thomas,Mueller,jenniferkhan@example.net,2025-12-20,wholesale,Comoros
+25,Robert,Shields,davisryan@example.com,2023-09-16,regular,Palau
+26,John,Lee,,2024-11-21,vip,Jamaica
+27,Scott,Callahan,joshuawright@example.org,2025-03-13,wholesale,Australia
+28,Gabriel,Tucker,novaksara@example.org,2024-03-09,wholesale,Iran
+29,Joseph,Bowers,martinaaron@example.com,2024-11-28,wholesale,Jamaica
+30,Tanya,Riley,smoore@example.org,2025-03-04,regular,San Marino
+31,Samantha,Schmidt,brian97@example.net,2023-09-19,wholesale,Malawi
+32,Emma,Young,yorkcasey@example.org,2023-11-27,vip,Tuvalu
+33,Robert,Silva,bethwilliams@example.org,2025-02-10,regular,Vietnam
+34,Randy,Powers,james53@example.com,2024-06-11,regular,Germany
+35,Wendy,Jones,smithchristine@example.net,2024-03-08,regular,Estonia
+36,Mike,Moore,sarahibarra@example.org,2026-01-17,regular,Romania
+37,Lisa,Evans,cheryl80@example.net,2025-07-15,vip,Wallis and Futuna
+38,Angela,Nelson,josephpreston@example.net,2025-05-11,regular,Saint Barthelemy
+39,John,Odonnell,james48@example.com,2023-09-12,wholesale,North Macedonia
+40,Matthew,Anderson,ccalderon@example.org,2026-06-26,vip,Central African Republic
+41,Alec,Jones,barnold@example.net,2026-03-12,vip,United Kingdom
+42,Angela,Jordan,  AMYDAVENPORT@EXAMPLE.NET ,2023-09-02,wholesale,Haiti
+43,Elizabeth,Gomez,nolanjason@example.org,2025-03-23,regular,Tunisia
+44,Sara,Young,vdickson@example.org,2024-01-13,wholesale,South Georgia and the South Sandwich Islands
+45,Sandra,Patton,nicolejohnson@example.net,2024-10-12,wholesale,Paraguay
+46,Patrick,Williams,josephcobb@example.org,2024-12-15,regular,Cook Islands
+47,Jeffrey,Keller,ybailey@example.org,2024-09-27,wholesale,Fiji
+48,William,Frazier,rasmussenjoshua@example.net,2026-01-28,vip,Greenland
+49,Beverly,Terrell,  WILSONTARA@EXAMPLE.ORG ,2023-08-29,vip,Nepal
+50,Samuel,Joyce,yreed@example.com,2023-11-22,wholesale,United Arab Emirates
+51,April,Drake,jonathanfletcher@example.org,2025-08-09,vip,Wallis and Futuna
+52,Samantha,Hanson,michaeljones@example.net,2025-07-15,wholesale,British Virgin Islands
+53,Heidi,Spencer,william65@example.com,2024-02-14,vip,Papua New Guinea
+54,Ashley,Sullivan,lbyrd@example.net,2026-01-17,wholesale,Gabon
+55,Marco,Ramos,jason99@example.net,2025-07-28,regular,Malawi
+56,Gene,Miller,yleon@example.net,2025-02-02,wholesale,North Macedonia
+57,Lindsay,Hernandez,clarence34@example.org,2023-09-07,wholesale,Lebanon
+58,James,Horton,gibsonolivia@example.net,2025-01-10,wholesale,Ecuador
+59,Kimberly,Robinson,dianasmith@example.org,2025-12-16,regular,Qatar
+60,Stephen,Solis,pwilliams@example.org,2025-07-19,regular,Monaco
+61,Patricia,Simmons,,2026-04-07,wholesale,Kiribati
+62,Karen,Larsen,juliawells@example.com,2024-05-17,regular,Slovakia (Slovak Republic)
+63,Chris,Mitchell,rsims@example.com,2024-05-11,regular,Ghana
+64,Eric,Lewis,taylorjesse@example.net,2024-10-15,wholesale,Greenland
+65,Perry,Carrillo,nperry@example.com,2026-05-20,wholesale,Angola
+66,Karen,Castaneda,wwoods@example.com,2026-05-28,vip,Italy
+67,Anthony,Rogers,tracynelson@example.com,2025-08-01,regular,Iraq
+68,Amanda,Meadows,marycalhoun@example.net,2025-04-27,vip,Panama
+69,Hunter,Green,millerroy@example.com,2024-07-11,wholesale,Korea
+70,Johnny,Miller,matthew64@example.com,2023-08-09,regular,Mauritius
+71,Casey,Bernard,cookemichael@example.net,2023-09-01,regular,Antarctica (the territory South of 60 deg S)
+72,John,Wells,jamessmith@example.org,2023-11-21,vip,Yemen
+73,Gary,Lawson,stevenscott@example.com,2025-10-15,vip,Brazil
+74,Sarah,Johnston,tamirodriguez@example.org,2026-04-09,vip,Honduras
+75,Brittany,Rivas,mdavid@example.org,2024-04-10,regular,Qatar
+76,Kimberly,Reed,  MELISSA91@EXAMPLE.NET ,2024-10-30,regular,Heard Island and McDonald Islands
+77,Lynn,Garcia,huntermatthew@example.com,2026-06-06,regular,North Macedonia
+78,Jessica,Sheppard,bzimmerman@example.org,2024-05-10,regular,Sri Lanka
+79,Joseph,Christian,umarshall@example.net,2026-01-14,regular,Benin
+80,Cheryl,Gray,nicole37@example.net,2023-08-19,vip,Thailand
+81,Matthew,Beard,hunter35@example.com,2025-08-25,vip,Falkland Islands (Malvinas)
+82,Jennifer,Freeman,blackjames@example.org,2025-10-26,wholesale,Portugal
+83,Laura,Davis,fbrewer@example.com,2024-03-17,regular,Puerto Rico
+84,Angela,Cooper,kevinperkins@example.com,2026-07-15,wholesale,Mexico
+85,John,Martinez,michael74@example.com,2024-02-15,vip,British Indian Ocean Territory (Chagos Archipelago)
+86,Jenny,Bray,  JAMESRODGERS@EXAMPLE.COM ,2025-02-13,wholesale,Finland
+87,Harry,Smith,wallkenneth@example.com,2025-02-23,regular,Falkland Islands (Malvinas)
+88,Sherry,Little,mccannangela@example.net,2025-10-21,regular,Bosnia and Herzegovina
+89,Matthew,Sheppard,  ANDREWSTAYLOR@EXAMPLE.COM ,2024-04-20,regular,Tokelau
+90,Travis,Ray,ewilson@example.com,2025-08-09,wholesale,Canada
+91,Victoria,Wilson,lisaavery@example.org,2025-11-02,wholesale,New Caledonia
+92,Kenneth,Chapman,kimberlyjames@example.com,2024-10-30,wholesale,Montenegro
+93,Colleen,Baker,lynchjody@example.org,2023-10-15,regular,Dominican Republic
+94,Shannon,Wheeler,andreamoore@example.com,2024-06-02,vip,Djibouti
+95,Jesus,Baker,jasmine71@example.net,2025-12-02,vip,Namibia
+96,Edward,Baker,ronaldstephens@example.net,2023-12-21,regular,Bahamas
+97,Samantha,Gonzales,  LAURALARSON@EXAMPLE.NET ,2024-12-13,wholesale,Gabon
+98,Troy,Miller,gbender@example.net,2023-08-31,regular,Jersey
+99,Suzanne,Huff,cassandra01@example.org,2025-04-09,vip,Zambia
+100,Barbara,Hines,keyemily@example.com,2024-01-27,vip,Maldives
+101,Ryan,Olsen,lmoon@example.net,2026-06-15,wholesale,Latvia
+102,Mark,Steele,ricky51@example.org,2024-05-29,wholesale,Western Sahara
+103,Shawn,Edwards,jcervantes@example.org,2024-07-07,wholesale,Sierra Leone
+104,Molly,Murray,ahancock@example.net,2023-09-16,regular,Maldives
+105,James,Dunn,cindy77@example.org,2026-04-30,wholesale,Kazakhstan
+106,Lauren,Mckinney,omartinez@example.net,2024-06-23,wholesale,American Samoa
+107,Stacey,Holland,hdavis@example.com,2024-01-03,wholesale,Venezuela
+108,Tina,Sanchez,william46@example.com,2025-03-14,vip,Hungary
+109,Michelle,Hill,sandraromero@example.org,2025-11-30,regular,Israel
+110,Justin,Evans,sarah84@example.org,2025-04-22,vip,Palestinian Territory
+111,Todd,Cook,  CGRIMES@EXAMPLE.NET ,2025-11-01,regular,Honduras
+112,John,Reyes,mcantu@example.net,2026-02-11,wholesale,Isle of Man
+113,Paul,Alvarado,floresthomas@example.com,2026-01-03,wholesale,Canada
+114,Tammy,Rivera,  IHANNA@EXAMPLE.NET ,2023-11-05,wholesale,Tanzania
+115,Jennifer,Ortiz,dgarcia@example.org,2025-07-05,vip,Cape Verde
+116,Cindy,Sanders,harrisontanya@example.com,2023-10-15,regular,Greenland
+117,Paige,Freeman,  OFINLEY@EXAMPLE.NET ,2025-03-02,regular,Niger
+118,Wendy,Francis,younggabrielle@example.com,2024-11-05,regular,Bolivia
+119,Brandon,Flynn,wallaceheather@example.org,2024-06-04,wholesale,Holy See (Vatican City State)
+120,Ashlee,Sparks,hthomas@example.com,2024-01-21,wholesale,Belgium
+121,Roberta,Thomas,pharvey@example.com,2024-12-05,regular,Equatorial Guinea
+122,Rachel,Byrd,ascott@example.com,2024-01-08,regular,Kenya
+123,John,Bruce,,2024-02-22,wholesale,Hungary
+124,Michael,Phillips,yrodriguez@example.net,2025-08-23,vip,Angola
+125,Kimberly,Beltran,khill@example.net,2026-04-12,regular,Samoa
+126,Catherine,Gomez,swall@example.org,2025-06-15,regular,Niger
+127,Debbie,Parker,,2024-11-13,vip,Mozambique
+128,Julie,Thompson,jessica14@example.com,2023-12-10,vip,Mauritius
+129,Robin,Raymond,alyssa42@example.com,2026-06-13,regular,French Polynesia
+130,Karen,Perez,linda71@example.org,2025-07-29,vip,Peru
+131,Michael,Gibbs,zcoffey@example.net,2023-08-03,vip,Mauritania
+132,Jose,James,gibsonemily@example.net,2025-06-17,wholesale,Holy See (Vatican City State)
+133,Nicole,Hoffman,leonardthomas@example.net,2026-04-17,regular,Cyprus
+134,Kevin,Ortiz,reidsteven@example.net,2023-12-19,regular,Yemen
+135,Jimmy,Medina,torrestravis@example.org,2024-09-16,regular,Heard Island and McDonald Islands
+136,Nicole,Pena,umatthews@example.org,2026-01-17,wholesale,Nicaragua
+137,Hannah,Robinson,rcrosby@example.org,2024-11-17,wholesale,Dominica
+138,Michael,Sanders,cory58@example.net,2024-02-12,regular,British Virgin Islands
+139,Danielle,Maddox,ndavis@example.net,2023-09-12,regular,Grenada
+140,Casey,Hubbard,vanessabuchanan@example.org,2024-03-02,wholesale,Cuba
+141,Aaron,Garrison,markhernandez@example.net,2023-12-24,wholesale,Bulgaria
+142,Alexis,Tyler,lauren10@example.org,2024-04-04,wholesale,Gibraltar
+143,Robert,Wilson,thompsonbrian@example.net,2023-09-26,wholesale,Kiribati
+144,Jeffrey,Gilbert,william17@example.net,2025-09-23,vip,United States of America
+145,Melanie,Simmons,stephen00@example.com,2023-11-14,vip,Rwanda
+146,Charlene,Jones,fjones@example.com,2024-05-15,regular,North Macedonia
+147,Shawn,Jacobs,oscar98@example.com,2023-11-04,vip,Reunion
+148,Jennifer,Lewis,farrelldebra@example.net,2024-11-24,wholesale,Denmark
+149,Robert,Davis,dmorgan@example.com,2024-10-28,regular,Papua New Guinea
+150,Christopher,Miller,nicholas27@example.org,2024-11-03,wholesale,Samoa
+151,Sue,Hoffman,lisa80@example.net,2025-07-22,vip,Isle of Man
+152,Caroline,Bell,morgan60@example.com,2025-04-12,vip,Croatia
+153,Michael,Hawkins,dianewalker@example.org,2023-11-21,wholesale,Fiji
+154,Christina,Day,lindsaybruce@example.net,2023-08-16,wholesale,Vanuatu
+155,Michael,White,anthony44@example.com,2023-12-23,regular,Palestinian Territory
+156,Teresa,Davis,vjones@example.net,2025-02-19,wholesale,Honduras
+157,Larry,Nguyen,kchavez@example.com,2026-05-15,regular,Nepal
+158,Brandon,Miller,  WAREERIC@EXAMPLE.NET ,2024-11-15,vip,Jamaica
+159,Jason,Hunt,alawson@example.com,2024-07-31,vip,Bouvet Island (Bouvetoya)
+160,Elizabeth,Williams,erika97@example.net,2024-09-24,regular,Netherlands Antilles
+161,Katrina,Duran,smithkevin@example.org,2024-05-31,vip,British Indian Ocean Territory (Chagos Archipelago)
+162,Omar,Padilla,jimenezryan@example.org,2025-01-17,regular,Syrian Arab Republic
+163,Steve,Miller,charles06@example.org,2024-06-26,regular,Japan
+164,Darius,Smith,amckinney@example.com,2024-07-08,wholesale,Spain
+165,Samuel,Rodriguez,xcollier@example.org,2024-11-07,regular,Iran
+166,Jeffrey,Maxwell,fosterkyle@example.com,2023-10-10,regular,North Macedonia
+167,Michael,Mullen,schmidtjames@example.com,2025-06-25,wholesale,Cameroon
+168,Carrie,Wolf,curtisscott@example.org,2025-07-06,vip,Christmas Island
+169,Shane,Glass,kmarshall@example.net,2025-03-28,wholesale,North Macedonia
+170,Carlos,Ramos,michelle52@example.com,2024-06-14,vip,Falkland Islands (Malvinas)
+171,Shannon,Brown,bellcharles@example.com,2026-01-15,vip,Belarus
+172,Betty,Best,gilbertwilliam@example.com,2025-10-05,wholesale,Armenia
+173,Jacob,Jacobs,kstout@example.net,2025-01-18,vip,Bahamas
+174,Christopher,Lucas,vgarcia@example.net,2023-08-30,regular,Russian Federation
+175,Chelsea,Cox,hritter@example.net,2026-04-20,vip,Iceland
+176,Brian,Mccoy,rschroeder@example.net,2024-07-19,regular,Greenland
+177,Jennifer,Douglas,grantpaul@example.com,2026-04-07,regular,Tunisia
+178,Sabrina,Collins,mathewaguilar@example.org,2025-07-07,vip,Panama
+179,Kyle,Bennett,tanderson@example.org,2025-12-02,regular,Suriname
+180,Wendy,Gaines,elizabethcalderon@example.net,2023-10-29,wholesale,Paraguay
+181,Kyle,Bean,,2024-07-27,wholesale,Seychelles
+182,Chris,Richard,,2023-11-06,vip,Sierra Leone
+183,David,Bennett,stanleynancy@example.net,2024-01-12,vip,Switzerland
+184,Erica,Young,jenniferwilliams@example.com,2024-11-16,wholesale,Finland
+185,Tammy,Mueller,pyoung@example.com,2026-04-04,vip,Congo
+186,Kayla,Strickland,,2025-01-20,vip,Italy
+187,Monique,Williams,lisasolis@example.org,2024-12-26,wholesale,Holy See (Vatican City State)
+188,Justin,Hines,dawsonzachary@example.org,2024-05-12,regular,United Kingdom
+189,Lisa,Wilkerson,mariahdavis@example.org,2026-05-03,vip,Israel
+190,Virginia,Brooks,sandersnathaniel@example.com,2023-08-18,regular,Venezuela
+191,Devin,Mitchell,combsdebra@example.org,2026-01-13,vip,Qatar
+192,Adam,Miller,katherineharrison@example.net,2024-04-24,vip,Syrian Arab Republic
+193,Rodney,Parsons,anaacosta@example.net,2024-04-04,vip,British Virgin Islands
+194,Stephen,Rodriguez,allendanielle@example.net,2026-04-06,vip,Nepal
+195,Douglas,Patterson,chenbailey@example.net,2025-05-22,regular,Dominican Republic
+196,Alexandra,Ward,qlopez@example.org,2026-05-28,vip,Mayotte
+197,Paul,Brooks,myerstheodore@example.net,2025-10-15,wholesale,Guinea-Bissau
+198,Dale,Perkins,,2025-10-25,regular,Burkina Faso
+199,Gregory,Maxwell,,2024-12-09,regular,Qatar
+200,Bryan,Parsons,zwelch@example.org,2024-12-01,regular,French Polynesia
+201,Leslie,Collins,bradleygonzalez@example.org,2024-09-27,wholesale,Suriname
+202,James,Kelly,wking@example.net,2025-11-20,wholesale,Tonga
+203,Julia,Kline,joshua56@example.com,2024-09-14,regular,Colombia
+204,Joseph,Miller,xholt@example.net,2024-10-26,vip,Jersey
+205,Mark,Phillips,,2024-11-18,vip,Saint Barthelemy
+206,Sergio,Acosta,cjackson@example.com,2026-04-13,vip,Nicaragua
+207,Charles,Walsh,yhill@example.org,2024-08-20,regular,Spain
+208,Erika,Kim,stephaniethomas@example.net,2023-12-04,regular,Dominica
+209,Eric,Cole,michael90@example.net,2024-08-28,wholesale,Kenya
+210,Leonard,Ramirez,berryalyssa@example.com,2026-06-05,wholesale,Anguilla
+211,David,Hampton,victorhughes@example.net,2025-08-28,vip,Croatia
+212,Derek,Jones,heather73@example.org,2024-01-24,wholesale,Rwanda
+213,Tammy,Downs,zosborn@example.net,2025-07-19,vip,Russian Federation
+214,Melissa,Joseph,piercekelly@example.com,2026-04-30,wholesale,Northern Mariana Islands
+215,Tracie,Conner,laurahicks@example.org,2024-04-03,regular,Lithuania
+216,Linda,Arnold,wardashley@example.com,2025-05-19,wholesale,Benin
+217,Timothy,Jenkins,parkeryvonne@example.net,2024-10-09,wholesale,Morocco
+218,Shannon,Frazier,martinezlogan@example.org,2024-07-30,wholesale,Turkey
+219,Renee,Brown,katrinaanderson@example.net,2023-12-02,regular,Cape Verde
+220,Stacey,Stone,fred53@example.com,2024-05-25,vip,Belgium
+221,Colleen,Mendez,james84@example.org,2023-10-29,wholesale,Norway
+222,Donna,Le,brittanycarpenter@example.org,2025-05-12,vip,Tajikistan
+223,Stacy,Wise,bryananthony@example.org,2024-05-04,regular,Cote d'Ivoire
+224,Pamela,Gardner,bmontgomery@example.com,2025-06-21,vip,Gabon
+225,Richard,Chavez,zsanchez@example.net,2025-08-11,vip,Cayman Islands
+226,Matthew,Thomas,dperry@example.org,2026-02-17,regular,Ghana
+227,Anna,Flores,theresa25@example.net,2024-12-11,vip,Ethiopia
+228,Kelly,Cruz,gwright@example.org,2025-05-23,vip,Egypt
+229,Larry,Hines,lisapeck@example.net,2025-01-15,regular,Malaysia
+230,Andrew,Landry,tjimenez@example.com,2025-01-22,wholesale,Dominican Republic
+231,Troy,Khan,brandywilliams@example.com,2025-07-05,vip,Latvia
+232,Nicole,Luna,amanda16@example.org,2025-11-02,vip,Haiti
+233,Michael,Roberts,moralesashley@example.org,2024-09-14,vip,Korea
+234,David,Davis,marcia99@example.org,2024-08-31,vip,Guadeloupe
+235,Richard,Williams,kari39@example.net,2023-08-30,vip,Rwanda
+236,Catherine,Robertson,linda87@example.org,2024-07-12,wholesale,New Zealand
+237,Matthew,Clayton,francisco94@example.net,2025-02-21,vip,Russian Federation
+238,Emily,Whitney,thomas05@example.com,2025-04-18,wholesale,South Africa
+239,Krista,Parsons,carlsonjoseph@example.net,2025-04-12,regular,Saint Helena
+240,Jennifer,Hampton,silvageorge@example.net,2024-09-07,vip,Swaziland
+241,James,Alexander,  ANTHONYVAUGHAN@EXAMPLE.ORG ,2024-10-19,vip,Isle of Man
+242,Monique,Fitzgerald,  ROBERTHAMPTON@EXAMPLE.COM ,2023-09-25,vip,Burundi
+243,Alicia,Edwards,annbolton@example.com,2024-01-24,vip,United States Minor Outlying Islands
+244,James,Wright,,2025-03-21,vip,Czech Republic
+245,Timothy,Castro,kellie37@example.com,2026-05-08,regular,Saint Helena
+246,Paula,Foster,keith98@example.com,2024-07-31,vip,Sierra Leone
+247,Christian,Bradshaw,kellyroberts@example.net,2025-07-06,vip,San Marino
+248,Sarah,Horton,  ILEWIS@EXAMPLE.COM ,2023-12-16,regular,Nicaragua
+249,Jeremiah,Hall,johnsantiago@example.net,2023-11-05,vip,Greenland
+250,Adam,Pierce,xgarcia@example.org,2026-05-02,wholesale,Ireland
+251,Manuel,Brewer,mwoods@example.com,2026-04-09,wholesale,Benin
+252,Robin,Thompson,amandasharp@example.org,2026-03-11,vip,Christmas Island
+253,Jacob,Curry,osbornrandy@example.com,2026-03-01,wholesale,French Guiana
+254,Sarah,Rogers,smithashley@example.org,2024-11-27,wholesale,Norway
+255,Taylor,Lee,  ISMALL@EXAMPLE.NET ,2023-11-19,regular,Central African Republic
+256,Alexis,Rogers,twong@example.org,2024-06-06,regular,Peru
+257,Margaret,Robertson,gregorychase@example.com,2023-10-22,regular,Paraguay
+258,Shari,Smith,lopezdonald@example.com,2024-09-11,regular,Kiribati
+259,Ashley,Green,stephanie49@example.net,2024-08-16,vip,Dominica
+260,Richard,Shaw,contrerassteven@example.org,2026-03-26,wholesale,Romania
+261,Jeffrey,Bernard,hannah45@example.net,2024-12-24,regular,Korea
+262,Laurie,Petersen,robert87@example.net,2025-10-30,wholesale,Pitcairn Islands
+263,Christian,Elliott,foxallison@example.com,2023-09-24,regular,Mexico
+264,Melissa,Ramos,ashleyhernandez@example.com,2025-08-02,wholesale,Saint Barthelemy
+265,Lindsey,Chavez,gdavis@example.com,2025-01-31,regular,Korea
+266,Jennifer,Foster,  HANSENEMILY@EXAMPLE.COM ,2025-12-29,vip,Samoa
+267,Isabella,Weaver,bethwilliams@example.com,2023-09-23,vip,Uganda
+268,Robert,Mack,andersenthomas@example.com,2025-11-04,vip,Saint Lucia
+269,Molly,Knox,ybrooks@example.com,2024-09-02,wholesale,Pitcairn Islands
+270,Victoria,Long,desireebailey@example.org,2023-12-05,wholesale,Czech Republic
+271,Emily,Stephens,  AVILATIFFANY@EXAMPLE.COM ,2025-02-20,vip,Swaziland
+272,Jacob,Golden,,2025-11-03,regular,Antigua and Barbuda
+273,Jamie,Garcia,bmendez@example.org,2023-08-24,wholesale,Netherlands Antilles
+274,Jimmy,Robinson,,2026-02-19,wholesale,Azerbaijan
+275,Barbara,Ray,williamroberts@example.net,2025-11-11,regular,Svalbard & Jan Mayen Islands
+276,Robert,Hill,joel28@example.org,2025-03-20,vip,Nauru
+277,Brandon,Cooper,conniesimmons@example.com,2025-06-23,wholesale,Hong Kong
+278,Nicholas,Webster,heather62@example.com,2024-12-18,vip,Thailand
+279,Robin,Hart,kevinzimmerman@example.com,2026-06-13,wholesale,Moldova
+280,Deborah,Nielsen,paulscott@example.com,2026-02-01,vip,Bermuda
+281,Carrie,Russo,brettbennett@example.net,2024-02-10,vip,Senegal
+282,Kevin,Stout,timothybooth@example.com,2024-03-07,vip,Comoros
+283,Heather,Padilla,burgesskaren@example.org,2024-09-25,regular,Dominican Republic
+284,Deborah,Parker,kimberly67@example.net,2024-08-16,wholesale,Turkmenistan
+285,Terrance,Franco,,2026-04-16,wholesale,Heard Island and McDonald Islands
+286,Dustin,Green,robert93@example.net,2026-05-08,wholesale,Mozambique
+287,Jerry,Hudson,mphillips@example.com,2024-04-13,wholesale,Mexico
+288,Gary,Norton,jonathan77@example.com,2024-01-20,vip,Saint Helena
+289,Susan,Warren,iwhite@example.net,2026-01-23,vip,Belarus
+290,Jesse,Mann,duranrobert@example.net,2023-07-29,regular,Madagascar
+291,Elizabeth,Jensen,nbrooks@example.net,2024-12-29,regular,Libyan Arab Jamahiriya
+292,Alvin,Bowen,smithandrea@example.org,2025-02-25,regular,France
+293,Linda,Browning,shawheidi@example.com,2023-11-13,regular,Bhutan
+294,Lisa,Adams,johnharvey@example.com,2024-09-25,regular,Holy See (Vatican City State)
+295,Jeremiah,Sutton,pstevens@example.net,2026-02-02,wholesale,Palau
+296,Thomas,Walsh,davisnicholas@example.net,2025-08-27,vip,Belize
+297,Ariel,Hodge,pbruce@example.com,2023-10-31,wholesale,Marshall Islands
+298,Paige,Alvarez,hallrachel@example.net,2023-09-08,wholesale,Belarus
+299,Sarah,Edwards,rachel90@example.org,2026-06-06,regular,Namibia
+300,Sarah,Evans,karenmarquez@example.com,2025-03-28,vip,Montenegro
+301,Patrick,Singh,irhodes@example.com,2025-12-01,vip,Portugal
+302,Connor,Hall,masonterri@example.org,2023-10-10,vip,Netherlands
+303,Cynthia,Bowers,unovak@example.org,2024-11-23,wholesale,Denmark
+304,Erin,Guerrero,angela66@example.org,2023-10-20,wholesale,Niger
+305,Eric,Dawson,lauren11@example.com,2025-06-12,wholesale,Saint Vincent and the Grenadines
+306,Adam,Parker,gstewart@example.org,2024-08-16,regular,Faroe Islands
+307,Angela,Hunt,andersonjacob@example.com,2023-11-09,vip,Benin
+308,Michelle,Smith,angela99@example.com,2024-10-14,regular,Slovakia (Slovak Republic)
+309,Ashley,Jackson,hardyanita@example.org,2024-09-08,vip,Burundi
+310,Gary,Hill,kevin72@example.org,2024-06-11,wholesale,Slovenia
+311,Colleen,Wheeler,wardsheryl@example.net,2024-02-18,regular,Botswana
+312,Meagan,James,kevinrush@example.com,2026-02-17,vip,Kazakhstan
+313,Malik,Valentine,ryan92@example.com,2024-02-24,vip,Germany
+314,Jessica,Chen,tamaranovak@example.com,2026-06-13,regular,Slovenia
+315,Michael,Frederick,markramirez@example.com,2024-02-22,wholesale,Mayotte
+316,Steven,Erickson,erinpierce@example.net,2024-11-10,vip,French Guiana
+317,Emily,Taylor,fuenteslaura@example.com,2024-06-14,wholesale,El Salvador
+318,Shane,Harper,jennifermccormick@example.org,2025-04-17,wholesale,Martinique
+319,Jacqueline,Burnett,ystephens@example.com,2025-04-29,vip,United States Virgin Islands
+320,Michael,Holland,rodriguezjohn@example.net,2023-09-05,vip,Oman
+321,Daniel,Garcia,,2024-03-18,regular,San Marino
+322,Brianna,Mason,seanmyers@example.net,2024-07-31,vip,Anguilla
+323,Darren,Shepard,agarcia@example.org,2023-12-21,vip,Georgia
+324,Michael,Davis,stanley38@example.com,2025-09-17,wholesale,Korea
+325,Melinda,Wong,carlos01@example.org,2025-07-30,wholesale,Chad
+326,Anita,Mullen,,2024-03-29,vip,Iraq
+327,Anthony,Mendez,jacobsandoval@example.com,2024-02-20,vip,Nauru
+328,Jamie,Goodwin,tprice@example.org,2025-12-21,vip,Bahrain
+329,Mark,Ellis,lloydamanda@example.com,2024-05-01,regular,Tokelau
+330,Candice,Carr,orose@example.com,2025-04-22,vip,Guernsey
+331,Janice,Evans,megan92@example.net,2025-05-22,wholesale,Belize
+332,Isaac,Steele,lawrenceallen@example.org,2025-01-28,vip,Italy
+333,Cynthia,Steele,baileyhenderson@example.com,2025-06-25,vip,China
+334,Megan,Harvey,tracytaylor@example.com,2026-02-21,regular,Zambia
+335,Tamara,Wagner,  WASHINGTONJAMES@EXAMPLE.COM ,2025-01-11,wholesale,Poland
+336,Gary,Cunningham,cperry@example.com,2025-12-07,wholesale,Cyprus
+337,Gary,Ellis,antonio38@example.com,2025-10-09,regular,Seychelles
+338,Danny,Hampton,hdunn@example.net,2026-01-06,regular,Haiti
+339,Veronica,Garcia,wolfscott@example.org,2026-01-13,wholesale,Sao Tome and Principe
+340,Jose,Atkins,kennethkidd@example.com,2023-10-22,regular,Tonga
+341,Brianna,Bell,rowejoel@example.net,2025-09-04,vip,Norfolk Island
+342,Lisa,Trujillo,  IMARTIN@EXAMPLE.ORG ,2025-04-03,wholesale,Martinique
+343,Kelly,Armstrong,candice25@example.net,2026-05-27,wholesale,Malaysia
+344,Samantha,Riddle,taylorkaren@example.com,2026-02-23,vip,Brunei Darussalam
+345,Kathleen,Lowe,johndawson@example.org,2025-01-05,vip,Morocco
+346,Cynthia,Beard,courtney67@example.org,2023-10-29,vip,Malaysia
+347,Mark,Smith,heather57@example.com,2025-11-13,wholesale,Saint Martin
+348,Heidi,Horn,simonstephen@example.net,2025-12-07,regular,Indonesia
+349,Joseph,Clayton,tammysummers@example.com,2024-07-23,vip,Morocco
+350,Patricia,Farmer,,2023-09-07,vip,Niue
+351,Stephen,Braun,ksmith@example.com,2024-10-29,vip,Portugal
+352,Clarence,Ward,nicoleturner@example.com,2023-10-17,regular,Papua New Guinea
+353,Holly,Young,brettgarrett@example.net,2025-07-06,vip,Romania
+354,Brittney,Stone,smiththomas@example.org,2024-11-17,regular,Algeria
+355,Chad,Reyes,lisa62@example.com,2025-09-26,vip,Bosnia and Herzegovina
+356,Patrick,Li,edwardsnicole@example.org,2026-03-03,vip,Norway
+357,Debra,Alexander,caseyelliott@example.net,2025-09-17,regular,Niue
+358,Michelle,Miller,samanthajensen@example.com,2023-11-06,wholesale,Sao Tome and Principe
+359,Leonard,Taylor,lawrencepatrick@example.com,2024-05-17,wholesale,Belize
+360,Justin,Pugh,angelagreene@example.net,2023-08-17,regular,Tanzania
+361,Julie,Phillips,jamie98@example.org,2023-09-16,vip,Ukraine
+362,Danielle,Jones,troyrodriguez@example.com,2026-03-19,wholesale,American Samoa
+363,Robert,Payne,sarah26@example.net,2024-01-24,vip,Latvia
+364,Jason,Livingston,smithcarlos@example.com,2026-05-23,regular,Indonesia
+365,Jacqueline,Miller,courtney86@example.com,2025-02-26,vip,Nicaragua
+366,Samantha,Mccann,joshuacollins@example.net,2024-01-05,regular,Greece
+367,Erin,Jones,wwillis@example.net,2025-08-22,wholesale,Saint Lucia
+368,Darren,Salazar,brianmiller@example.com,2023-09-17,regular,Papua New Guinea
+369,Alexander,Crawford,,2024-08-01,vip,Maldives
+370,Olivia,Wise,gary24@example.net,2023-08-20,wholesale,Sri Lanka
+371,Jennifer,Ray,enelson@example.com,2023-10-11,wholesale,Korea
+372,Eric,Ayala,brian92@example.com,2026-03-25,wholesale,Peru
+373,Michele,Smith,perezwilliam@example.org,2023-09-07,regular,Haiti
+374,Angela,Sloan,lmora@example.org,2025-10-07,vip,Italy
+375,Luis,Mckenzie,marcbutler@example.net,2025-04-05,vip,British Indian Ocean Territory (Chagos Archipelago)
+376,Stephanie,Jones,  WHITELINDA@EXAMPLE.ORG ,2024-12-09,vip,Finland
+377,Miguel,Carter,mark87@example.org,2025-11-24,vip,Saint Vincent and the Grenadines
+378,Whitney,Parsons,stevenvargas@example.com,2025-09-28,wholesale,Mayotte
+379,Jesse,Reed,edwardrandolph@example.org,2026-01-24,regular,Turkey
+380,Nicholas,Rojas,tapiaaaron@example.net,2024-06-20,regular,Costa Rica
+381,Jennifer,Davis,robertwoodward@example.org,2026-04-23,regular,Ukraine
+382,Terri,Miller,xhaynes@example.com,2023-10-31,wholesale,Burkina Faso
+383,Ryan,Brandt,kjones@example.org,2024-04-03,vip,Eritrea
+384,Shawn,Hall,sara65@example.com,2026-05-18,wholesale,Burkina Faso
+385,Lee,Martinez,moorefrank@example.com,2024-08-14,wholesale,Sierra Leone
+386,Christopher,Aguirre,shannonford@example.org,2024-06-16,regular,Romania
+387,Christopher,Wright,lewismelissa@example.org,2024-08-11,wholesale,Malaysia
+388,Anthony,Sullivan,  BYRDJORGE@EXAMPLE.ORG ,2024-11-25,regular,San Marino
+389,David,Brown,codygarcia@example.org,2025-11-20,regular,Cyprus
+390,Crystal,Newman,jamesmorales@example.net,2025-04-17,regular,Eritrea
+391,Scott,Anderson,  JOHNSONCALEB@EXAMPLE.NET ,2026-04-05,regular,Switzerland
+392,Sandra,Hamilton,,2025-09-19,vip,Luxembourg
+393,Jason,Lopez,  REYESRONALD@EXAMPLE.COM ,2024-05-20,wholesale,Turks and Caicos Islands
+394,Deborah,Porter,austinharvey@example.org,2026-03-12,vip,Lesotho
+395,James,Wilkerson,millerpatrick@example.com,2025-02-14,regular,Norfolk Island
+396,Timothy,Harrington,mayokimberly@example.com,2024-07-30,wholesale,Mongolia
+397,Carla,Johnson,  PAUL20@EXAMPLE.COM ,2025-12-23,wholesale,Fiji
+398,Katie,Key,stokesthomas@example.com,2026-06-20,regular,Bolivia
+399,Brian,Davies,  DIANEADAMS@EXAMPLE.NET ,2024-03-15,vip,Tanzania
+400,Joel,Stewart,lkelly@example.org,2025-10-04,wholesale,Guinea-Bissau
+401,Anne,Hart,warnermichael@example.net,2024-02-10,regular,Sudan
+402,Benjamin,Brown,lweaver@example.com,2025-05-08,regular,Angola
+403,Lindsay,Peterson,nsmith@example.org,2024-01-29,wholesale,Spain
+404,Samantha,Schroeder,brian29@example.net,2026-01-31,wholesale,Tokelau
+405,Craig,Turner,susan56@example.net,2023-12-15,wholesale,Cayman Islands
+406,Logan,Mann,fconner@example.net,2025-03-25,regular,Tuvalu
+407,Kurt,Barker,jeffrey92@example.com,2023-12-05,wholesale,Saint Lucia
+408,Melissa,Townsend,rushstacy@example.com,2025-03-31,vip,Cocos (Keeling) Islands
+409,Ariana,Zuniga,samantha93@example.net,2023-12-20,vip,Samoa
+410,Daisy,Mccarty,youngtoni@example.org,2026-01-04,vip,Paraguay
+411,Heather,Bell,sean43@example.org,2025-11-27,vip,Saint Helena
+412,Tanya,Wilkerson,williamssamuel@example.com,2025-01-09,vip,Honduras
+413,Debra,Mcdaniel,  AMY17@EXAMPLE.NET ,2024-01-13,regular,Barbados
+414,Charles,Jackson,phillipslucas@example.org,2024-09-02,vip,Saint Martin
+415,Matthew,Galloway,paynerachael@example.org,2026-03-23,wholesale,Romania
+416,Pamela,Moore,reynoldsdesiree@example.net,2023-11-06,wholesale,Costa Rica
+417,Amber,Guerrero,robertspencer@example.net,2024-06-08,wholesale,Bhutan
+418,Eric,Ward,longandrea@example.com,2024-10-29,wholesale,French Polynesia
+419,George,Carter,  BGONZALEZ@EXAMPLE.ORG ,2023-10-16,vip,Tanzania
+420,Patricia,Baker,parkerraymond@example.com,2025-06-21,regular,Iceland
+421,Sean,Baker,nathanjames@example.org,2024-12-09,regular,Czech Republic
+422,Elizabeth,Morton,anne21@example.org,2024-10-14,regular,Saudi Arabia
+423,Robert,Nichols,angelarandall@example.net,2026-02-23,vip,Lebanon
+424,Austin,Duncan,thomasmiller@example.net,2025-02-04,wholesale,Montserrat
+425,Stacy,Jackson,davidtodd@example.org,2024-03-07,regular,Congo
+426,Ryan,Osborn,bradmiller@example.net,2025-06-05,wholesale,Syrian Arab Republic
+427,Angela,Arnold,luis11@example.com,2026-02-11,wholesale,Mali
+428,Cindy,Mills,astark@example.net,2024-10-20,vip,Israel
+429,Sara,Hart,  EDDIEMATTHEWS@EXAMPLE.ORG ,2023-11-06,wholesale,France
+430,Todd,Lynch,natalie46@example.net,2023-08-29,wholesale,Falkland Islands (Malvinas)
+431,Heather,Williams,,2026-03-19,wholesale,Greenland
+432,Penny,Smith,brandonalvarez@example.com,2025-12-30,vip,Gabon
+433,Dennis,Mccann,juan71@example.org,2024-11-15,wholesale,Sweden
+434,Christopher,Alexander,joseph69@example.net,2026-04-15,wholesale,Ireland
+435,Zachary,Moore,xmalone@example.org,2024-06-23,regular,Madagascar
+436,Anthony,Lee,htaylor@example.net,2026-01-16,regular,Taiwan
+437,Janet,Hill,wrightstephen@example.com,2026-01-06,vip,Madagascar
+438,Anthony,Watson,hreid@example.net,2025-04-30,regular,Christmas Island
+439,Frank,Kline,wmatthews@example.com,2025-10-16,vip,Portugal
+440,Melissa,Chan,mitchellpaul@example.org,2024-03-09,wholesale,Cyprus
+441,William,Hancock,ericaadams@example.com,2026-06-12,regular,Pitcairn Islands
+442,Carolyn,Smith,wellsdavid@example.org,2024-04-20,regular,Sri Lanka
+443,Melissa,Stevens,  JENNIFER46@EXAMPLE.COM ,2024-03-14,regular,Gabon
+444,Yvonne,Levy,asilva@example.net,2026-01-23,vip,Monaco
+445,Matthew,Hill,,2024-07-09,wholesale,Falkland Islands (Malvinas)
+446,Zachary,Allen,diana43@example.org,2023-09-19,wholesale,Togo
+447,Jennifer,Rios,rguerrero@example.org,2026-07-16,wholesale,Eritrea
+448,Brandy,Cooley,vsullivan@example.org,2025-12-29,wholesale,Guam
+449,Rebecca,Powers,,2025-01-25,regular,Tanzania
+450,Kelly,Ruiz,marywalter@example.org,2025-10-08,wholesale,Saint Kitts and Nevis
+451,Christopher,Kelly,staceylam@example.net,2025-10-11,vip,Gambia
+452,Jorge,Carter,,2026-02-05,vip,Latvia
+453,Charles,Preston,delacruzbrandy@example.net,2025-01-17,vip,Trinidad and Tobago
+454,Monica,Hernandez,amoreno@example.org,2026-07-10,regular,Guam
+455,Leslie,Baldwin,dbenitez@example.org,2025-11-18,vip,Libyan Arab Jamahiriya
+456,Brian,Hayes,crystal25@example.net,2024-03-04,vip,Singapore
+457,David,Hamilton,barbaramoore@example.org,2024-10-31,regular,Japan
+458,James,Watson,creyes@example.net,2023-08-03,wholesale,Gibraltar
+459,John,Steele,andrewsmith@example.net,2024-07-30,regular,Bulgaria
+460,Cameron,Williams,reyesbrianna@example.org,2026-05-23,wholesale,Korea
+461,Michael,Lopez,ryan25@example.com,2026-05-23,regular,Uruguay
+462,Traci,Clark,osmith@example.net,2023-08-12,regular,Madagascar
+463,Nicholas,Bowman,daviddawson@example.org,2025-11-10,wholesale,Nigeria
+464,Desiree,Smith,  WHEELERBRANDON@EXAMPLE.ORG ,2025-08-12,wholesale,Israel
+465,Thomas,Hernandez,jjames@example.com,2025-08-18,wholesale,Norfolk Island
+466,Abigail,Dean,turnerdorothy@example.net,2025-08-24,wholesale,Italy
+467,Daniel,Rodriguez,huntchristine@example.com,2024-02-21,vip,Cook Islands
+468,Robert,Martin,marie35@example.net,2025-03-10,regular,United States Minor Outlying Islands
+469,Aaron,Powers,haleycastillo@example.org,2026-04-07,wholesale,Syrian Arab Republic
+470,Charles,Cummings,fhernandez@example.net,2026-04-05,regular,Norway
+471,Steven,Garcia,stephenmadden@example.com,2024-01-26,vip,Armenia
+472,Darrell,York,michael56@example.net,2026-03-20,vip,Algeria
+473,Patricia,Friedman,  ELIZABETHJACKSON@EXAMPLE.COM ,2024-05-08,regular,Saint Martin
+474,Richard,Rivers,watsonmatthew@example.org,2024-05-11,vip,Hungary
+475,Daniel,Horton,pmarsh@example.org,2023-09-21,wholesale,Western Sahara
+476,Leah,Gregory,dalepruitt@example.com,2024-02-02,wholesale,Hong Kong
+477,Daniel,Jenkins,cheryl27@example.com,2023-09-07,vip,Eritrea
+478,Annette,Levine,alexander89@example.net,2025-07-22,vip,Guadeloupe
+479,Michael,Rhodes,reynoldsjessica@example.com,2024-09-12,vip,Taiwan
+480,Melinda,Christian,smithsarah@example.net,2026-02-25,wholesale,Belarus
+481,Brent,Walker,vflores@example.com,2025-06-23,vip,Iraq
+482,Shane,Gates,christianwallace@example.net,2024-11-19,wholesale,British Indian Ocean Territory (Chagos Archipelago)
+483,Richard,Johnson,bmcgee@example.org,2025-03-11,vip,Sweden
+484,Kevin,Romero,connersylvia@example.net,2024-03-01,wholesale,Paraguay
+485,Lisa,Richard,xclements@example.org,2024-07-16,wholesale,Seychelles
+486,Shaun,Davis,xmoran@example.net,2025-07-10,wholesale,Afghanistan
+487,Nathaniel,Rodriguez,michael48@example.net,2026-03-27,wholesale,Lithuania
+488,Daniel,Carr,lydianewton@example.com,2024-02-09,wholesale,Venezuela
+489,Jennifer,Rodriguez,ylewis@example.org,2024-10-15,wholesale,Vanuatu
+490,Bridget,Gordon,bartonshannon@example.net,2026-06-09,vip,Albania
+491,Timothy,Romero,tranryan@example.net,2026-04-23,vip,Christmas Island
+492,Diane,Obrien,jessicaanderson@example.com,2024-07-05,regular,Turkmenistan
+493,Kathryn,Hill,mbarnes@example.net,2026-06-09,vip,French Polynesia
+494,Carrie,Tanner,iballard@example.com,2025-01-30,wholesale,Tajikistan
+495,Jason,Klein,jennifer83@example.org,2025-08-09,regular,Uruguay
+496,William,Benson,tinasantos@example.org,2024-07-06,vip,Brazil
+497,Jennifer,Craig,  ANNA99@EXAMPLE.NET ,2026-03-24,regular,Martinique
+498,Daniel,James,natalie60@example.net,2023-09-15,regular,Azerbaijan
+499,Frances,Thomas,josephfloyd@example.com,2023-09-24,regular,Slovenia
+500,Lisa,Garcia,james80@example.com,2026-02-24,wholesale,Saint Vincent and the Grenadines
+194,Stephen,Rodriguez,allendanielle@example.net,2026-04-06,vip,Nepal
+123,John,Bruce,,2024-02-22,wholesale,Hungary
+332,Isaac,Steele,lawrenceallen@example.org,2025-01-28,vip,Italy
+226,Matthew,Thomas,dperry@example.org,2026-02-17,regular,Ghana
+14,Paul,Carlson,  LAURAHENDERSON@EXAMPLE.ORG ,2024-12-12,wholesale,El Salvador
+427,Angela,Arnold,luis11@example.com,2026-02-11,wholesale,Mali
+127,Debbie,Parker,,2024-11-13,vip,Mozambique
+204,Joseph,Miller,xholt@example.net,2024-10-26,vip,Jersey
+327,Anthony,Mendez,jacobsandoval@example.com,2024-02-20,vip,Nauru
+110,Justin,Evans,sarah84@example.org,2025-04-22,vip,Palestinian Territory
+52,Samantha,Hanson,michaeljones@example.net,2025-07-15,wholesale,British Virgin Islands
+202,James,Kelly,wking@example.net,2025-11-20,wholesale,Tonga
+99,Suzanne,Huff,cassandra01@example.org,2025-04-09,vip,Zambia
+266,Jennifer,Foster,  HANSENEMILY@EXAMPLE.COM ,2025-12-29,vip,Samoa
+446,Zachary,Allen,diana43@example.org,2023-09-19,wholesale,Togo
